@@ -1,0 +1,20 @@
+# Analysis 
+
+This section includes examples of technical analysis done using Jupyter notebooks.
+Each sub-section highlights different types of analyses and visualizations.
+
+**Questions to Explore:**
+- Identifying more suitable indicators for Amsterdam (e.g., proximity to the Red Light District).
+- Developing more accurate, unbiased, and generalizable models for price and rating prediction.
+
+**Data Used:**
+- Amsterdam Open Data Portal
+- Open Street Map
+- Airbnb datasets
+
+#### Requirement meet: 
+- Data is collected through a means more sophisticated than downloading (e.g. scraping, API). Due to the large volume of data, the frequent loading and splitting required for debugging parameters and other tasks take an excessive amount of time. Therefore, I utilized an API to crawl the data, download it locally, and then reload it.
+- It combines data collected from 3 or more different sources.
+- The analysis of the data is reasonably complex, involving multiple steps (geospatial joins/operations, data shaping, data frame operations, etc).
+- Perform a machine learning analysis with scikit-learn as part of the analysis.
+- Project includes multiple interactive visualizations that include a significant interactive component (cross-filtering, interactive widgets, etc). Due to the excessive number of interactive maps, the application became unusually sluggish. I have converted some of them into PNGs.

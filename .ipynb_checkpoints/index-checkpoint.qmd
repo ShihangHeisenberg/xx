@@ -1,0 +1,10 @@
+---
+title: "MUSA 550: Final Project"
+subtitle: "Fair Pricing and Quality Optimization in Amsterdam's Airbnb Market"
+---
+
+## Introduction
+
+The existing Airbnb and its price prediction platforms only consider a few basic variables, resulting in limited accuracy. This is particularly evident in Amsterdam, where chaotic pricing in the short-term rental market poses challenges for government regulation. Addressing how multidimensional data can assist renters in determining fair price ranges, encourage hosts to price reasonably, and help the government manage rental quality without bias presents an intriguing research topic.
+
+## Writter: Shihang
