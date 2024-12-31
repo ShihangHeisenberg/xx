@@ -25,12 +25,14 @@ website:
         text: Introduction
       - section: analysis/index.qmd
         contents:
-          - analysis/1
-          - analysis/2
-          - analysis/3
-          - analysis/4
-          - analysis/5
-          - analysis/6
+          - analysis/1.ipynb
+          - analysis/2.ipynb
+          - analysis/3.ipynb
+          - analysis/4.ipynb
+          - analysis/5.ipynb
+          - analysis/6.ipynb
+          - analysis/7.ipynb
+          - analysis/8.ipynb
           
 format:
   html:
